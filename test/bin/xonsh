@@ -1,0 +1,3 @@
+#!/Users/yaseen/Desktop/telusko/test/bin/python
+from xonsh.main import main
+main()
